@@ -1,0 +1,20 @@
+.transaction{
+  width: 700px;
+  margin: 25px auto;
+}
+.head{
+  border: 1px solid green;
+  font-weight: 700;
+  font-size:25px;
+  padding: 10px;
+  text-align: center;
+  background-color: rgba(28, 184, 231, 0.5);
+}
+.line{
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+  font-size:15px;
+  padding: 5px;
+  color: rgb(25, 3, 46);
+  font-weight: 500;
+}
